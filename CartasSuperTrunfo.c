@@ -10,7 +10,6 @@ int main() {
     float pib1;
     int pontos_turisticos1;
 
-
     // variaves carta2:
     char estado2;
     char codigo_carta2[3];
@@ -20,9 +19,7 @@ int main() {
     float pib2;
     int pontos_turisticos2;
 
-
-
-    
+ 
     // coletando dados das Cartas1:
     printf("Carta 01,  digite estado (com uma letra):\n");
     scanf(" %c", &estado1);
@@ -68,7 +65,6 @@ int main() {
      printf("digite pontos turisticos:\n");
      scanf("%d", &pontos_turisticos2);
  
-
 
     // Exibição dos Dados das Cartas1:
     printf("\n--Dados carta 1--\n");
